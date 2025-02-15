@@ -1,0 +1,2 @@
+welcome-message: "&a欢迎 {player} 回到服务器! 当前在线: {online}/{max}"
+quit-message: "&c{player} 离开了服务器. 当前在线: {online}/{max}"

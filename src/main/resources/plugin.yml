@@ -1,0 +1,9 @@
+name: DCWelcomeMess
+version: 1.0
+main: com.MingJame.dcwelcomemess.DCWelcomeMess
+api-version: 1.20
+commands:
+  dcwel:
+    description: "Reload the messages configuration"
+    usage: "/<command> reload"
+    permission: dcwel.reload
